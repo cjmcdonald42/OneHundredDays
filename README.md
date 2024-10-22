@@ -1,11 +1,8 @@
-     package:   ribbit.py
+     project:   One Hundred Days of Python Code
       author:   Charles J McDonald «cmcdonald@woonsocketschools.com»
-        date:   2024.10.12
-     version:   0.1
-    maturity:   inDev
+        date:   2024.10.22
 
-# ribbit
-A reimagining of the game Bulls and Cows. Our version uses a swampy theme with frogs and toads.
-Open Source Software Template
+# One Hundred Days of Python
+Code samples from Replt's "100 Days of Code" Python course
 
 ### This work © 2024 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
