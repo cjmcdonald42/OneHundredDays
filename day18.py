@@ -8,7 +8,6 @@ import random
 # Pick a random number
 number = random.randint(1, 100)
 
-
 isPlaying = True
 while isPlaying is True:
     # print(number)  # Totally cheating...
